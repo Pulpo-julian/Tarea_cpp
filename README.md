@@ -1,5 +1,5 @@
 # Tarea de C++ donde practico algritmos
-
+#
 Algoritmo para convertir dolares
 ![dolares](https://user-images.githubusercontent.com/75713326/119736993-36b7c980-be44-11eb-90fa-ba3faefdba9f.png)
 #
@@ -11,5 +11,4 @@ Algoritmo para area y perimetro de circulo
 #
 Algoritmo para viaje de Rionegro a Medellin
 ![viaje](https://user-images.githubusercontent.com/75713326/119737194-80a0af80-be44-11eb-84ca-7f5dea8a9c76.png)
-
 #
